@@ -1,0 +1,10 @@
+[*.cs]
+
+# IDE0210: Convert to top-level statements
+dotnet_diagnostic.IDE0210.severity = warning
+
+# IDE0040: Add accessibility modifiers
+dotnet_diagnostic.IDE0040.severity = none
+
+# IDE0210: Convert to top-level statements
+csharp_style_prefer_top_level_statements = false

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Anand",
+    "FatherName": "Aruldoss",
+    "StudentGender": 0,
+    "DOB": "2000-11-05T00:00:00",
+    "TotalMark": 467
+  },
+  {
+    "Name": "Ravi",
+    "FatherName": "Chandran",
+    "StudentGender": 0,
+    "DOB": "1999-11-11T00:00:00",
+    "TotalMark": 490
+  },
+  {
+    "Name": "Dhanush",
+    "FatherName": "SivaKumar",
+    "StudentGender": 0,
+    "DOB": "2001-09-21T00:00:00",
+    "TotalMark": 420
+  }
+]
